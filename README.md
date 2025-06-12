@@ -9,13 +9,9 @@ More Stairs and Slabs!
 | namespace | `more_ss`               |
 | slug      | `more-stairs-and-slabs` |
 
-## Edition
+## Loaders
 
 - Bedrock
-- Data Pack
-- Fabric
-- Forge
-- NeoForge
 
 ## LINKS
 
